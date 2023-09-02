@@ -1,0 +1,17 @@
+.login{
+    margin-right: 10px;
+}
+.container{
+    width: 800px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.form{
+    margin-bottom: 10px;
+}
+label{
+    margin-bottom: 5px;
+}

@@ -1,0 +1,17 @@
+.register{
+    margin-right: 10px;
+}
+.form{
+    margin-bottom: 10px;
+}
+label{
+    margin-bottom: 5px;
+}
+.container{
+    width: 800px;
+}
+.container1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
